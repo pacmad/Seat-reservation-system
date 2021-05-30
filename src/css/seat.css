@@ -1,0 +1,13 @@
+.seat {
+  flex: 0 1 calc(6.667% - 1%);
+  border: 1px black solid;
+  box-shadow: 0px 0px 12px 2px rgba(0, 0, 0, 0.2);
+  margin: 0.5%;
+}
+.info {
+  margin-left: 5%;
+}
+.hidden {
+  flex: 0 1 calc(6.667% - 1%);
+  margin: 0.5%;
+}
